@@ -1,6 +1,5 @@
 //ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
 package boletin5;
-//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
 
 public class consumo {
     private float kilometros;
@@ -13,9 +12,6 @@ public class consumo {
 public consumo () {
 
     }
-//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
-//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
-//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
 
 //constructor parametrizado
     public consumo (float km, float li, float vM, float pG) {
@@ -66,5 +62,4 @@ public consumo () {
     }
 }
 
-//ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
 //ESTO ES UNA MODIFICACION PARA EL EXAMEN DE COD
