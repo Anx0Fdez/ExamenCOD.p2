@@ -11,7 +11,15 @@
 git clone https://github.com/Anx0Fdez/ExamenCOD.p2.git
 ~~~
 
-3. Modificamos el REAME y añadimos a al archivo .gitignore el archivo tokens.md que se encuentra dentro de la carpeta "src" por motivos de seguridad.
+3. Modificamos el REAME y añadimos a al archivo .gitignore el archivo tokens.txt que se encuentra dentro de la carpeta "src" por motivos de seguridad.
+
+4. Desde Intellij le damos click derecho en el archivo txt y lo añadimos a .gitignore.
+
+5. Creamos un .jar siguiendo los siguientes pasos:
+~~~
+
+~~~
+
 
 
 
